@@ -1,0 +1,7 @@
+/.venv
+/.files
+/.chainlit
+/__pycache__
+/utils/__pycache__
+/chainlit.md
+/data

@@ -1,0 +1,9 @@
+openai
+pillow
+python-docx
+pandas
+fitz
+PyMuPDF
+chainlit
+openpyxl
+chromadb
